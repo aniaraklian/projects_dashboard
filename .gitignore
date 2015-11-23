@@ -1,0 +1,8 @@
+/_site
+.DS_Store
+*.log
+/.sass-cache/
+_config.yml
+*.pyc
+_data/projects.json
+node_modules/
