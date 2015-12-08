@@ -1,0 +1,935 @@
+{
+  "developer-program": {
+    "name": "developer-program",
+    "github": [
+      "CommerceDataService/tutorial_nist_nvd"
+    ],
+    "description": "How often should we update our software secure? The National 
+    Institute of Standards and Technology (NIST) maintains a database of reported 
+    vulnerabilities. We can take a look and try to get some answers.",
+    "partner": [
+      "National Institue of Standards and Technology"
+    ],
+    "partners": null,
+    "stage": "live",
+    "impact": "Accessible data",
+    "milestones": [
+      ""
+    ],
+    "contact": [
+      {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      }
+    ],
+    "stack": null,
+    "team": [
+      {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "tutorial_nist_nvd": "Public Domain (CC0)"
+    },
+    "licenseBranch": {
+      "     ": "gh-pages"
+    },
+    "links": [
+      "http://www.nist.gov/"
+    ],
+    "blog": [
+      "/developer"
+    ],
+    "status": null,
+    "full_name": "National Institute of Standards and Technology (NIST) Tutorial",
+    "self": "https://team-api.18f.gov/public/api/projects/developer-program"
+  },
+  "hub": {
+    "name": "hub",
+    "full_name": "18F Hub",
+    "type": "docs",
+    "owner_type": "project",
+    "status": "active",
+    "stage": "alpha",
+    "testable": true,
+    "mission": "The 18F Hub is a Jekyll-based documentation platform that aims to help 18F and other development teams organize and easily share their information, and to enable easy exploration of the connections between team members, projects, and skill sets. It aims to serve as the go-to place for all of a team's working information, whether that information is integrated into the Hub directly or provided as links to other sources. It also serves as a lightweight tool that other teams can experiment with and deploy with a minimum of setup.\n",
+    "links": [
+      {
+        "url": "https://hub.18f.gov/",
+        "text": "18F Hub production instance"
+      },
+      {
+        "url": "https://hub.18f.gov/hub/",
+        "text": "18F Public Hub staging instance"
+      },
+      {
+        "url": "https://18f.gsa.gov/hub/",
+        "text": "18F Public Hub production instance"
+      }
+    ],
+    "tasks": "https://github.com/18F/hub/issues",
+    "github": [
+      "18F/hub"
+    ],
+    "self": "https://team-api.18f.gov/public/api/projects/hub"
+  },
+  "dap": {
+    "name": "dap",
+    "github": [
+      "CommerceDataService/CWG_Website"
+    ],
+    "description": "This is an informative call-to-action intended to raise awareness of the problem and 
+    engage people in proactively helping to alleviate the problem. Its is a site
+    and application development for the social justice initiative.",
+    "partner": [
+      "The White House"
+    ],
+    "stage": "live",
+    "milestones": [
+      ""
+    ],
+    "contact": [
+      {
+        "url": "mailto:tgrandison@doc.gov",
+        "text": "tgrandison@doc.gov"
+      }
+    ],
+    "stack": [
+      "jekyll",
+      
+    ],
+    "team": [
+      {
+        "name": "tyrone",
+        "full_name": "Tyrone Grandison",
+        "first_name": "Tyrone",
+        "last_name": "Grandison",
+        "self": "https://team-api.18f.gov/public/api/team/shawn"
+      },
+    ],
+    "licenses": {
+      "analytics.usa.gov": "Public Domain (CC0)"
+    },
+    "links": [
+      "https://www.whitehouse.gov/the-press-office/2015/11/13/fact-sheet-advancing-equity-women-and-girls-color",
+      "https://www.whitehouse.gov/letgirlslearn"
+    ],
+    "status": null,
+    "full_name": "Help Girls of Color",
+    "self": "https://team-api.18f.gov/public/api/projects/dap"
+  },
+  "api-data-gov": {
+    "name": "api-data-gov",
+    "github": [
+      "CommerceDataService/CommerceUsabilityProject",
+    ],
+    "description": "The U.S. Department of Commerce's 12 Bureaus delivers free and open data impacting all business sectors.
+    The Commerce Data Service is committed to making data more accessible, not only through discoverability, but also by 
+    lowering the knowledge barrier to getting started.",
+    "partner": [
+      "Census",
+      "Bureau of Economic Analysis",
+      "Bureau of Industry and Security",
+      "U.S. Census Bureau",
+      "Economic Development Adminstration",
+      "Economics and Statistics Adminstration",
+      "International Trade Administration",
+      "Minority Business Development Agency",
+      "National Institure of Standards and Technology",
+      "National Oceanic and Atmospheric Adminstration",
+      "National Technical Information Service",
+      "National Telecommunications and Information Administration",
+      "United States Patent and Trademark Office",
+      "Office of the Secretary",
+
+    ],
+    "partners": null,
+    "stage": "live",
+    "impact": "Users explore Commerce data through tutorials and visualizations. ",
+    "milestones": null,
+    "contact": [
+      {
+        "url": "mailto:data@doc.gov",
+        "text": "data@doc.gov"
+      }
+    ],
+    "stack": [
+      "JavaScript (Node and Ember)",
+    ],
+    "team": [
+       {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "fbopen": "Public Domain (CC0)"
+    },
+    "links": [
+      "https://api.data.gov",
+      "https://api.data.gov/metrics",
+      "https://api.data.gov/about",
+      "https://nrel.github.io/api-umbrella/"
+    ],
+    "blog": [
+      "API"
+    ],
+    "status": null,
+    "full_name": "Commerce Usability Project",
+    "self": "https://team-api.18f.gov/public/api/projects/api-data-gov"
+  },
+  "calc": {
+    "name": "calc",
+    "github": [
+      "CommerceDataService/tutorial_ita_tradeflows"
+    ],
+    "description": "Export trade helps ensure economic growth and prosperity. Each state in
+    the United States relies on different trade partners for their export activities. This 
+    D3 + JavaScript visualizes those patterns through small multiples. Building
+    a new data product and a new data visualization.",
+    "partners": null,
+    "impact": "ITA Tradeflows
+    Analytics to proactively identify businesses that would benefit from exporting.
+    User-focused interactive data visualizations for trade policy analysis.",
+    "stage": "beta",
+    "milestones": [
+      ""
+    ],
+    "contact": [
+      {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "jchen1@doc.gov"
+      }
+    ],
+    "stack": [
+      "D3",
+      "JavaScript",
+    ],
+    "team": [
+      {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/shawn"
+      },
+    ],
+    "licenses": {
+      "mirage": "Public Domain (CC0)"
+    },
+    "links": [
+      "http://www.trade.gov/",
+    ],
+    "status": null,
+    "full_name": "International Trade Administration (ITA) Tradeflows Tutorial",
+    "self": "https://team-api.18f.gov/public/api/projects/calc"
+  },
+  "C2": {
+    "name": "C2",
+    "github": [
+      "CommerceDataService/tutorial_noaa_hail"
+    ],
+    "description": "Hail storms can cause harm to people and property.
+    This R tutorial with leaflet.js + Google Charts integration focuses
+    on getting started with severe weather data to assess and map hail
+    risk around the United States. This is part of the Commerce Usability Project (CUP).",
+    "partner": [
+      "National Oceanic and Atmospheric Administration"
+    ],
+    "partners": null,
+    "stage": "live",
+    "impact": "Helps NOAA document hail risk around the United States.",
+    "milestones": null,
+    "contact": [
+      {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      },
+    ],
+    "stack": [
+      "R"
+    ],
+    "team": [
+       {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "C2": "Public Domain (CC0)"
+    },
+    "links": [
+      "http://www.noaa.gov/"
+    ],
+    "status": null,
+    "full_name": "National Oceanic and Atmospheric Adminstration Hail Tutorial",
+    "self": "https://team-api.18f.gov/public/api/projects/c2"
+  },
+  "dataact": {
+    "name": "dataact",
+    "github": [
+      "CommerceDataService/Verbal"
+    ],
+    "description": "Build a configurable and extendable index of features that 
+    indicate important attributes to people's day-to-day lives.",
+    "partner": [
+      "Census"
+    ],
+    "partners": [
+      ""
+    ],
+    "impact": "Creating a data product of verb indices.",
+    "stage": "beta",
+    "milestones": [
+      ""
+    ],
+    "contact": [
+     {
+        "url": "mailto:sying@doc.gov",
+        "text": "Star Ying"
+      }
+    ],
+    "stack": [
+      "JavaScript",
+      "Jekyll"
+    ],
+    "team": [
+       {
+        "name": "star",
+        "full_name": "Star Ying",
+        "first_name": "Star",
+        "last_name": "Ying",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "fedspendingtransparency": "Public Domain (CC0)"
+    },
+    "links": [
+      "https://www.commerce.gov/dataservice/"
+    ],
+    "status": null,
+    "full_name": "Verbal",
+    "self": "https://team-api.18f.gov/public/api/projects/dataact"
+  },
+  "methods": {
+    "name": "methods",
+    "github": [
+      "CommerceDataService/DataService_WebSite"
+    ],
+    "description": "The website for the Commerce Data Service, which is
+    a public startup within the Office of the Secretary.",
+    "stage": "beta",
+    "milestones": [
+      "April 2015: Conducted one-on-one interviews with design leads across roughly 10 projects.",
+      "May 2015: Built prototype sets of alpha method cards to get some quick feedback on our concept. Conducted a few more formal usability tests of the card decks, which led to some changes in the beta version.",
+      "June 2015: Ran randomized, controlled experiment to measure how method cards affected our 18F teammates’ knowledge and comfort with our design methods. People who received cards were slightly more knowledgeable and comfortable with methods than a control group whose members didn’t receive cards.",
+      "August 2015: Launched online, beta version of the methods at methods.18f.gov, including files and instructions for printed cards."
+    ],
+    "contact": [
+     {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      }
+    ],
+    "team": [
+      {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "methods": "Public Domain (CC0)"
+    },
+    "links": [
+      "https://www.commerce.gov/dataservice/"
+    ],
+    "blog": null,
+    "status": null,
+    "full_name": "Data Service Website",
+    "self": "https://team-api.18f.gov/public/api/projects/methods"
+  },
+  "discovery": {
+    "name": "discovery",
+    "github": [
+      "CommerceDataService/DataService_WebSite"
+    ],
+    "description": "The website for the Commerce Data Service, which is
+    a public startup within the Office of the Secretary.",
+    "partner": [
+      "U.S. Department of Commerce"
+    ],
+    "partners": null,
+    "impact": null,
+    "stage": "live",
+    "milestones": [
+      "May 2014: Initial Discovery stage began for task order generator project",
+      "June 2014: Project pivoted based on user interviews and Discovery stage began for market research tool",
+      "July 2014: Work on Alpha stage began for market research tool",
+      "November 2014: Alpha work complete",
+      "February 2015: Name changed from \"Mirage\" to \"Discovery\""
+    ],
+    "contact": [
+       {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      }
+    ],
+    "stack": [
+      "Python",
+      "JavaScript"
+    ],
+    "team": [
+      {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "mirage": "Public Domain (CC0)"
+    },
+    "links": [
+      "http://gsa.gov/oasis",
+      "https://discovery.gsa.gov"
+    ],
+    "status": null,
+    "full_name": "Commerice Data Service Website",
+    "self": "https://team-api.18f.gov/public/api/projects/discovery"
+  },
+  "doi-extractives-data": {
+    "name": "doi-extractives-data",
+    "github": [
+      "CommerceDataService/API_for_MDBA_Data"
+    ],
+    "description": "This makes it easy to turn potentially mant large csv
+    files into easily accessible open data. It develops frameworks for data
+    accessibility and builds a new data product.",
+    "partner": [
+      "Census",
+      "National Oceanic and Atmospheric Administration"
+    ],
+    "partners": null,
+    "impact": "Builds an API to facilitate open data efforts.
+               Algorithm to create priority list for business development outreach.
+               Do user research and implement user-centered design stories for their
+               new web interface.",
+    "stage": "beta",
+    "milestones": [
+      ""
+    ],
+    "contact": [
+      {
+        "url": "mailto:tgrandison@doc.gov",
+        "text": "Tyrone Grandison "
+      }
+    ],
+    "stack": [
+      "JavaScript",
+      "D3",
+    ],
+    "team": [
+      {
+        "name": "tyrone",
+        "full_name": "Tyrone Grandison",
+        "first_name": "Tyrone",
+        "last_name": "Grandison",
+        "self": "https://team-api.18f.gov/public/api/team/shawn"
+      },
+    ],
+    "licenses": {
+      "doi-extractives-data": "Public Domain (CC0)"
+    },
+    "licenseBranch": {
+      "doi-extractives-data": "gh-pages"
+    },
+    "links": [
+      "http://www.mbda.gov/"
+    ],
+    "blog": [
+      "eiti"
+    ],
+    "status": null,
+    "full_name": "API for Minority Business Development Agency Data",
+    "self": "https://team-api.18f.gov/public/api/projects/doi-extractives-data"
+  },
+  "fbopen": {
+    "name": "fbopen",
+    "github": [
+      "CommerceDataService/draft_metrics_dashboard"
+    ],
+    "description": "Introduces new data processing architecture for making 
+    operations more efficient, provides UI/UX/Data Science support, and develops
+    visualizations to improve communication efforts.",
+    "partner": null,
+    "partners": null,
+    "stage": "beta",
+    "impact": "Running and benchmarking a data process task comparing old vs. new. 
+    Helping create an engaging and user-centered NTIA website.
+    Introducing web-based interactive visualization to agency.",
+    "milestones": [
+      "          "
+    ],
+    "contact": [
+       {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      }
+    ],
+    "stack": [
+      "Python",
+      "JavaScript/Node"
+    ],
+    "team": [
+      {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "fbopen": "Public Domain (CC0)"
+    },
+    "links": [
+      {
+        "url": "http://www.ntia.doc.gov/"
+      }
+    ],
+    "blog": [
+      "fbopen"
+    ],
+    "status": "active",
+    "full_name": "National Telecommunications & Information Administration
+    -SciDB pilot, Web Redesign, Broadband Viz",
+    "type": "app",
+    "owner_type": "project",
+    "testable": true,
+    "mission": "To aggregate and make more accessible diverse opportunities to do business with the U.S. Government",
+    "tasks": "https://github.com/18F/fbopen/issues",
+    "self": "https://team-api.18f.gov/public/api/projects/fbopen"
+  },
+  "foia": {
+    "name": "foia",
+    "github": [
+    ],
+    "description": "Fuels economic growth and creates a data driven government.",
+    "partner": [
+      "Economic Development Administration",
+      "Office of Innovation and Entrepreneurship"
+    ],
+    "partners": null,
+    "impact": "Makes data from Office of Innovation and Entreprenurship
+    in EDA machine-readable.
+    Taking part in the grant application process to help determin possible
+    optimization points.
+    Provide guidance on what an innovation metric is and how one creates it.
+    Provide a data science module that helps OIE to determine when they need
+    to do further outreach to ensure that their applicant mix has the right
+    coverage.
+    Examine the reports provided by OIE grantees to help determine program 
+    impact and identify ways to increase ROI.
+    Provide technical support of the Skills project.",
+    "stage": "alpha",
+    "milestones": [
+      "June 2014: Project Discovery stage started",
+      {
+        "April 2015": "open.foia.gov is deployed."
+      }
+    ],
+    "contact": [
+       {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      }
+    ],
+    "stack": [
+      "python",
+      "django"
+    ],
+    "team": [
+       {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "foia": "Public Domain (CC0)",
+      "foia-hub": "Public Domain (CC0)"
+    },
+    "licenselink": "18F/foia/blob/master/LICENSE.md",
+    "links": [
+      "http://www.eda.gov/",
+      "http://www.eda.gov/oie/"
+    ],
+    "blog": [
+      "foia"
+    ],
+    "status": null,
+    "full_name": "Economic Development Administration API ",
+    "self": "https://team-api.18f.gov/public/api/projects/foia"
+  },
+  "midas": {
+    "name": "midas",
+    "github": [
+    ""
+    ],
+    "description": "This helps deliver data services, create data driven
+    government, and fuel economic growth. It makes operations data machine-readable 
+    and creates a UI for it. It provides guidance on the data JVs, data tools, 
+    schedule A and data productivity toolds. Develops or re-inviogrates a cross 
+    collaboration tool for all DOC bureaus and promotes its use.",
+    "partner": [
+    "Office of the Secretary"
+    ],
+    "partners": null,
+    "stage": "beta",
+    "impact": "Creating an operational dashboard for the Secretary
+    Provides domain expertise on current standards, technologies, and resources
+    Provides input on the features that the developer community need
+    Enabling the use of best in breed video chat productivity tools for DOC
+    Convenes stakeholders and guide example language for data sharing",
+    "milestones": [
+    "                  ",
+    ],
+    "contact": [
+      {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      }
+    ],
+    "stack": [
+      "JavaScript (Node/Sails",
+      "Backbone)",
+      "CSS",
+      "Chef"
+    ],
+    "team": [
+      {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "midas": "Public Domain (CC0)"
+    },
+    "links": [
+      "https://www.commerce.gov/office-secretary",
+      "https://www.commerce.gov/"
+    ],
+    "blog": [
+      "midas"
+    ],
+    "status": null,
+    "full_name": "Office of the Secretary- CommerceViz, SPP Dashboard,
+    Policy Revisions, /Developer, Unblocking Video Chat",
+    "self": "https://team-api.18f.gov/public/api/projects/midas"
+  },
+  "myra": {
+    "name": "myra",
+    "github": [
+      ""
+    ],
+    "description": "Fueling economic growth, creating a data driven government, 
+    delivering data services.",
+    "partner": [
+      "National Oceanic Atmospheric Adminstration (NOAA)"
+    ],
+    "partners": null,
+    "impact": "Feedback on viability of use cases being pursued by anchor partners.
+    Evaluation of the utility of emerging data sets and providing analytics on 
+    novel use cases. 
+    Collaborating on identifying real-time data for inclusion into catastrophic
+    risk warning systems.
+    Helping the fisheries group agilely develop a new IT system based on their
+    user research.
+    Helping NWS send clear and concise alerts. 
+    Analyzing current alert taxonomy and improving it with user input.
+    Providing technical guidance on the best method of cleanse data.",
+    "stage": "discovery",
+    "milestones": [
+      "August 2014: Project discovery stage started",
+      "September 2014: Project moved from discovery to alpha",
+      "December 2014: Project launched",
+      "June 2015: Project handed off to partner"
+    ],
+    "contact": [
+     {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      }
+    ],
+    "stack": [
+      "JavaScript",
+      "Jekyll"
+    ],
+    "team": [
+     {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "myra": "Public Domain (CC0)"
+    },
+    "links": [
+      "http://www.noaa.gov/"
+    ],
+    "status": null,
+    "full_name": "National Oceanic and Atmospheric Administration- Big Data
+    Project, Radar Data Pilot, NOAA-AIG, Fisheries, Hazards Simplification.",
+    "self": "https://team-api.18f.gov/public/api/projects/myra"
+  },
+  "myusa": {
+    "name": "myusa",
+    "github": [
+      ""
+    ],
+    "description": "Providing strategic support.",
+    "partner": [
+      "U.S. Patent Trademark Office"
+    ],
+    "partners": [
+      "U.S. Patent Trademark Office"
+    ],
+    "impact": "Helping the PTO team successfully hit their milestones for
+    the Open Data Roadmap.",
+    "stage": "alpha",
+    "milestones": [
+      ""
+    ],
+    "contact": [
+      {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      }
+    ],
+    "stack": [
+      "JavaScript"
+    ],
+    "team": [
+      {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "myusa": "Public Domain (CC0)"
+    },
+    "links": [
+      "http://www.uspto.gov/"
+    ],
+    "status": null,
+    "full_name": "U.S. Patent Trademark Office- Open Data Roadmap",
+    "self": "https://team-api.18f.gov/public/api/projects/myusa"
+  },
+  "openfec": {
+    "name": "openfec",
+    "github": [
+      ""
+    ],
+    "description": "Provides technical guidnace and support in platofrom development, 
+    execution support, and guidance on including real-time information into the 
+    CENSUS collection process. This support type also helps the CENSUS Data Architect 
+    in the creation of a common data model for all the CENSUS collection initiatives.",
+    "partner": [
+      "Federal Election Commission"
+    ],
+    "partners": null,
+    "impact": "Assessing load balancing issues when building new application 
+    on an old API and helping with figuring out how the platform scales.
+    Consulting on best approaches to successfully developing the platform and 
+    helping with building discrete components.
+    Consulting on privacy/security approaches and implementation strategy for the 
+    next generation CENSUS Big Data platform.
+    Providing guidance on the creation of a single CENSUS data model.",
+    "stage": "alpha",
+    "milestones": [
+      ""
+    ],
+    "contact": [
+      {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      }
+    ],
+    "stack": null,
+    "team": [
+      {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "openFEC": "Public Domain (CC0)",
+      "FEC": "Public Domain (CC0)"
+    },
+    "links": [
+      "http://www.census.gov/"
+    ],
+    "blog": [
+      "FEC"
+    ],
+    "status": null,
+    "full_name": "CENSUS- CEDSCI, CEDCAP, Big Data Platform, Data Standards",
+    "self": "https://team-api.18f.gov/public/api/projects/openfec"
+  },
+  "peacecorps-site": {
+    "name": "peacecorps-site",
+    "github": [
+      "18F/peacecorps-site"
+    ],
+    "description": "Developing visualizations to improve communications efforts and 
+    developing a public-facing visualization of BIS use cases.",
+    "partner": [
+      "Bureau of Industry and Security", 
+      "Census"
+    ],
+    "partners": null,
+    "impact": "Introducing web-based interactive visualization to BIS. 
+    Developing an automated system for including CENSUS data, integrating it with
+    BIS data, aggregating it, and displaying it to the public in a fashion that 
+    complies with BIS security mandates.",
+    "stage": "alpha",
+    "contact": [
+      {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      }
+    ],
+    "stack": null,
+    "team": [
+      {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": null,
+    "links": [
+      "https://www.bis.doc.gov/"
+    ],
+    "status": null,
+    "full_name": "Bureau of Industry and Security- Customs Data Visualization, UI Pilot",
+    "self": "https://team-api.18f.gov/public/api/projects/peacecorps-site"
+  },
+  "pulse": {
+    "name": "pulse",
+    "github": [
+      ""
+    ],
+    "description": "Help lead the advisory group that provides guidance on the
+    needs from the business and academic community. Also works with industry
+    partners to determine real-time measures for economic growth. Builds a
+    new version of the CDAC website based on user segmentation.",
+    "partner": [
+      "Economics and Statistic Adminstration",
+      "Commerce Data Advisory Council"
+    ],
+    "partners": null,
+    "impact": "Provides feedback to the Department of the needs of its clients
+    and utilizes the CDAC members to jointly solve important data problems.
+    Creates data procducts that provide a better picture of the state of the
+    economy.
+    Re-implements the CDAC webpage for the Commerce Data Service.",
+    "stage": "beta",
+    "milestones": [
+      ""
+    ],
+    "contact": [
+      {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      }
+    ],
+    "stack": [
+      "jeykll",
+      "ruby"
+    ],
+    "team": [
+     {
+        "name": "jeff",
+        "full_name": "Jeff Chen",
+        "first_name": "Jeff",
+        "last_name": "Chen",
+        "self": "https://team-api.18f.gov/public/api/team/gray"
+      }
+    ],
+    "licenses": {
+      "pulse": "Public Domain (CC0)"
+    },
+    "links": [
+      "http://www.esa.gov/",
+      "https://www.commerce.gov/economics-and-statistics-administration"
+    ],
+    "status": null,
+    "full_name": "Economic and Statistics Administration- CDAC, CDAC Website,
+    and Paypal + IBM",
+    "self": "https://team-api.18f.gov/public/api/projects/pulse"
+  },
+  "sbirez": {
+    "name": "sbirez",
+    "github": [
+      ""
+    ],
+    "description": "Advising and consulting on technical issues.",
+    "partner": [
+      "Office of the Chief Financial Officer"
+    ],
+    "partners": null,
+    "impact": "Provide technical guidance on the best method to cleanse data.",
+    "stage": "alpha",
+    "milestones": [
+      ""
+    ],
+    "contact": [
+      {
+        "url": "mailto:jchen1@doc.gov",
+        "text": "Jeff Chen"
+      }
+    ],
+    "stack": [
+      "JavaScript",
+      "Python"
+    ],
+    "licenses": {
+      "sbirez": "Public Domain (CC0)"
+    },
+    "full_name": "Office of the Chief Financial Officer- Data Act 
+    Implementation",
+    "self": "https://team-api.18f.gov/public/api/projects/sbirez"
+  },
+}
